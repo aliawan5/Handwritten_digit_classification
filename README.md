@@ -21,7 +21,7 @@ Dense: Fully connected layers for classification
 The model is compiled with the Adam optimizer, sparse categorical cross-entropy loss function, and accuracy as a metric.
 
 6. Training the Model
-The model is trained on the training data for 10 epochs with a batch size of 128. Validation is performed using the test data.
+The model is trained on the training data for 5 epochs 
 
 7. Evaluating the Model
 The model's performance is evaluated using the test data. The accuracy and loss are reported.
